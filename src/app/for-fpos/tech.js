@@ -41,9 +41,8 @@ const Techsuppourt = () => {
       <div className="flex flex-col lg:flex-row items-start">
         <div className="flex flex-col mr-8 max-w-md">
           <div
-            className={`cursor-pointer mb-2 p-4 rounded-lg ${
-              selectedCard === 1 ? 'bg-white-100' : 'bg-gray-100'
-            }`}
+            className={`cursor-pointer mb-2 p-4 rounded-lg ${selectedCard === 1 ? 'bg-white-100' : 'bg-gray-100'
+              }`}
             onClick={() => handleCardClick(1)}
           >
             <div>Maintaining Farmers Database</div>
@@ -57,25 +56,23 @@ const Techsuppourt = () => {
           </div>
 
           <div
-            className={`cursor-pointer mb-2 p-4 rounded-lg ${
-              selectedCard === 2 ? 'bg-white-100' : 'bg-gray-100'
-            }`}
+            className={`cursor-pointer mb-2 p-4 rounded-lg ${selectedCard === 2 ? 'bg-white-100' : 'bg-gray-100'
+              }`}
             onClick={() => handleCardClick(2)}
           >
             <div>Smart Membership Cards</div>
             {selectedCard === 2 && (
               <div className="mt-2 p-4">
                 <p className="text-sm">
-                  We manage the issuance and tracking of farmers’ information through physical cards via our tech-enabled platform. Each card is equipped with a unique QR code, serving as a gateway to a wealth of information. This QR code enables comprehensive tracing of the farmer's complete profile, including transactions and credit history.
+                  We manage the issuance and tracking of farmers information through physical cards via our tech-enabled platform. Each card is equipped with a unique QR code, serving as a gateway to a wealth of information. This QR code enables comprehensive tracing of the farmer's complete profile, including transactions and credit history.
                 </p>
               </div>
             )}
           </div>
 
           <div
-            className={`cursor-pointer mb-2 p-4 rounded-lg ${
-              selectedCard === 3 ? 'bg-white-100' : 'bg-gray-100'
-            }`}
+            className={`cursor-pointer mb-2 p-4 rounded-lg ${selectedCard === 3 ? 'bg-white-100' : 'bg-gray-100'
+              }`}
             onClick={() => handleCardClick(3)}
           >
             <div>Financial Reportings</div>

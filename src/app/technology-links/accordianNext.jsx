@@ -14,7 +14,7 @@ const KisanlinkDashboard = () => {
           <span className="text-green-600 font-bold">Comprehensive Database:</span> Our platform stands out with its complete inventory management solution, ensuring every aspect of agricultural operations is accounted for and optimized for efficiency.
         </li>
         <li className="bg-green-100 mb-2 p-4 border-l-4 border-green-500">
-          <span className="text-green-600 font-bold">Tech-enabled Membership Cards:</span> Our tech-enabled platform manages farmers' membership cards, each featuring a unique QR code. This code provides access to the farmer's complete profile, including transactions and credit history.
+          <span className="text-green-600 font-bold">Tech-enabled Membership Cards:</span> Our tech-enabled platform manages farmers membership cards, each featuring a unique QR code. This code provides access to the farmer&apos;s complete profile, including transactions and credit history.
         </li>
         <li className="bg-green-50 mb-2 p-4 border-l-4 border-green-500">
           <span className="text-green-600 font-bold">Real-time Data Synchronization:</span> These features are in sync with our e-commerce platform, the Kisanlink mobile app, and are integrated with our ERP system for real-time data synchronization.

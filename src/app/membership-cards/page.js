@@ -14,10 +14,10 @@ const smartcard = () => {
 
       <div>
         <p className="text-center -mt-4 mb-20 ml-40 mr-40">
-          Kisanlink issues and manages farmers' physical membership cards
+          Kisanlink issues and manages farmers physical membership cards
           through a technologically advanced platform. Each card is embedded
           with a unique QR code, granting access to substantial information.
-          This QR code enables seamless tracking of the farmer's complete
+          This QR code enables seamless tracking of the farmer&apos;s complete
           profile, including transaction history and credit records.
         </p>
       </div>
