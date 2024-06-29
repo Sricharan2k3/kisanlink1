@@ -64,7 +64,7 @@ const Techsuppourt = () => {
             {selectedCard === 2 && (
               <div className="mt-2 p-4">
                 <p className="text-sm">
-                  We manage the issuance and tracking of farmers information through physical cards via our tech-enabled platform. Each card is equipped with a unique QR code, serving as a gateway to a wealth of information. This QR code enables comprehensive tracing of the farmer's complete profile, including transactions and credit history.
+                  We manage the issuance and tracking of farmers information through physical cards via our tech-enabled platform. Each card is equipped with a unique QR code, serving as a gateway to a wealth of information. This QR code enables comprehensive tracing of the farmer&apos;s complete profile, including transactions and credit history.
                 </p>
               </div>
             )}
