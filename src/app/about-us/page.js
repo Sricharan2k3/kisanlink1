@@ -35,7 +35,7 @@ const about = () => {
         <p className="text-center -mt-4 mb-20 ml-40 mr-40">
           Our mission is to connect farmers with the latest advancements in
           agritech, providing them with the tools and knowledge they need to
-          thrive in today's ever-changing agricultural landscape.
+          thrive in today&apos;s ever-changing agricultural landscape.
         </p>
       </div>
       <div className="-mt-10">
