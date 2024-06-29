@@ -1,7 +1,4 @@
-/* Prevent horizontal overflow */
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+
 
 body, html {
     overflow-x: hidden;
